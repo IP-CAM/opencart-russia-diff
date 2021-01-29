@@ -1,2 +1,2 @@
 # opencart-russia-diff
-Изменения в OpenCart 2x Русская сборка
+Changes in OpenCart Version 2.x Russian Assembly
